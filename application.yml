@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/sppos?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost/cargo_app_microservices12
     username: root
     password: root
   jpa:
