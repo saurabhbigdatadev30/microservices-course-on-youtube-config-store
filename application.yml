@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost/rentDB?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost/krish_app_microservices
     username: root
     password: root
   jpa:
